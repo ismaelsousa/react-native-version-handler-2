@@ -36,7 +36,7 @@ const validateInput = () => {
 
   if (!["production", "stage", "feature"].includes(environment)) {
     console.log(`Environment : ${environment} not found.`);
-    console.log(`Available environments are: [production, stage]`);
+    console.log(`Available environments are: [production, stage, feature]`);
     process.exit(1);
   }
 
