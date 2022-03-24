@@ -1,0 +1,28 @@
+{
+  "name": "react-native-version-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-ios": "node index.js ios stage squadra-app",
+    "start-android": "node index.js android stage squadra-app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoschaab/version-handler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoschaab/version-handler/issues"
+  },
+  "homepage": "https://github.com/joaoschaab/version-handler#readme",
+  "bin": {
+    "release": "./index.js"
+  },
+  "dependencies": {
+    "arg": "^5.0.0",
+    "strip-color": "^0.1.0"
+  }
+}
