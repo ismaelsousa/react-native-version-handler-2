@@ -1,5 +1,5 @@
 {
-  "name": "react-native-version-handler",
+  "name": "react-native-version-handler-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaoschaab/version-handler.git"
+    "url": "git+https://github.com/ismaelsousa/react-native-version-handler-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joaoschaab/version-handler/issues"
+    "url": "https://github.com/ismaelsousa/react-native-version-handler-2/issues"
   },
-  "homepage": "https://github.com/joaoschaab/version-handler#readme",
+  "homepage": "https://github.com/ismaelsousa/react-native-version-handler-2#readme",
   "bin": {
     "release": "./index.js"
   },
